@@ -6,23 +6,3 @@ p {
     color: rgb(255, 0, 0);
     font-size: 26px
 }
-.mouth1 {
-    background-color: #fff;
-    position: absolute;
-    left: 100px;
-    top: 155px;
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    z-index: 1;
-}
-.mouth2 {
-    background-color: #C4CD14;
-    position: absolute;
-    left: 50px;
-    top: 30px;
-    width: 300px;
-    height: 300px;
-    border-radius: 150px;
-    z-index: 2;
-}
